@@ -17,6 +17,6 @@ Files:
   - submissions.json: Contains the submissions as explained above.
   - submissions_py.json: Only python submissions, it doesn't follow the Llama format, 10 submissions per problem.
   - submissions_py_llama.json: Same as above but following the Llama input format
-  - submissions_py_llama_small.json: Same as above but with fewer submissions for each unique problem.
+  - submissions_py_llama_small.json: Same as above but with 3 submissions per problem.
 
 
