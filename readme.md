@@ -4,9 +4,9 @@ The dataset description:
      - This data is of public access.
    - For each contest, the first accepted solution for some popular languages is taken
      - In this way, we can be sure that the source code is warranted to be correct.
-   - In total, there are 4555 unique submissions and 899 unique problems: 
-     - Up to contest weekly-345.
-     - Up to contest biweekly-104
+   - In total, there are 4666 unique submissions and 916 unique problems: 
+     - Up to contest weekly-348.
+     - Up to contest biweekly-105
      - The idea is to update keep it updated with latest contests.
      - This readme won't probably be updated when that happens.
    - The included languages are:
